@@ -1,5 +1,9 @@
-#4 antologia poética pessoal #4
-#2 [Poema - Autor]
+## antologia poética pessoal
+#### [Poema - Autor]
 
 1. A flor e a náusea - Carlos D. de Andrade
 2. Soneto de Fidelidade - Vinicius de Moraes
+
+## Contatos:
+[Linkedin](https://www.linkedin.com/in/eduardolentz/) </br>
+[Gmail](eduardo.lentz@gmail.com)
